@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://Torches.site',
+  url: 'https://torches.site',
   lang: 'zh-CN',
   title: 'Torches 未完成的博客搭建,有些模板信息没改，别瞎点',
   author: {
