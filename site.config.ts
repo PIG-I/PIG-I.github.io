@@ -1,13 +1,21 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://Torches.site',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: 'Torches 未完成的博客搭建,有些模板信息没改，别瞎点',
   author: {
-    name: '云游君',
+    name: 'Torches',
+    avatar: 'C:/Users/Torches/valaxy-blog/public/portrait.jpg',
+    status:
+    {
+      emoji: '🤨',
+      message: '要考研，好累啊'
+    }
   },
-  description: 'Valaxy Theme Yun Preview.',
+  mode: 'auto',
+  lastUpdated: true,
+  description: '保持热爱',
   social: [
     {
       name: 'RSS',
