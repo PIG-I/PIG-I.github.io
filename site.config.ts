@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: 'Torches 未完成的博客搭建,有些模板信息没改，别瞎点',
   author: {
     name: 'Torches',
-    avatar: 'C:/Users/Torches/valaxy-blog/public/portrait.jpg',
+    avatar: '/public/portrait.jpg',
     status:
     {
       emoji: '🤨',
