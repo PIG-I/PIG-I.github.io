@@ -37,7 +37,12 @@ export default defineValaxyConfig<UserThemeConfig>({
     //     color: 'hotpink',
     //   },
     // ],
-
+    bg_image:
+    {
+      enable:true,
+      url:"/background1.jpg",
+      dark:"/background2.jpg",
+    },
     footer: {
       since: 2016,
       beian: {

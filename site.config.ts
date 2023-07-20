@@ -100,7 +100,6 @@ export default defineSiteConfig({
   search: {
     enable: false,
   },
-
   sponsor: {
     enable: false,
     title: '我直到我很强，但是你更强👍'
