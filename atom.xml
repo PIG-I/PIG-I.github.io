@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pig-i.info/</id>
+    <title>Torches</title>
+    <updated>2023-07-20T07:08:45.230Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Torches</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://pig-i.info/"/>
+    <link rel="self" href="https://pig-i.info/feed.atom"/>
+    <subtitle>保持热爱</subtitle>
+    <logo>https://pig-i.info/portrait.jpg</logo>
+    <icon>https://pig-i.info/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © Torches</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://pig-i.info/posts/hello-valaxy</id>
+        <link href="https://pig-i.info/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content>
+        <author>
+            <name>Torches</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>

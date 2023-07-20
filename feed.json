@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Torches",
+    "home_page_url": "https://pig-i.info/",
+    "feed_url": "https://pig-i.info/feed.json",
+    "description": "保持热爱",
+    "icon": "https://pig-i.info/portrait.jpg",
+    "author": {
+        "name": "Torches",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n",
+            "url": "https://pig-i.info/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "Torches",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
