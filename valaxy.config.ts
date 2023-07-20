@@ -40,8 +40,8 @@ export default defineValaxyConfig<UserThemeConfig>({
     bg_image:
     {
       enable:true,
-      url:"/background1.jpg",
-      dark:"/background2.jpg",
+      url:"/background2.jpg",
+      dark:"/background3.jpg",
     },
     footer: {
       since: 2016,
